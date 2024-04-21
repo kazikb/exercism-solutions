@@ -1,0 +1,5 @@
+# requirements for running pytest
+pytest
+pytest-cache
+pytest-subtests
+pytest-pylint
