@@ -106,3 +106,8 @@ pip install -r requirements.txt
 - Generators:
     - [plane-tickets](plane-tickets/README.md)
     - [scale-generator](scale-generator/README.md)
+- Easy:
+    - [house](house/README.md)
+- Medium:
+    - [killer-sudoku-helper](killer-sudoku-helper/README.md)
+    - [knapsack](knapsack/README.md)
