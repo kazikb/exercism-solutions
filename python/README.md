@@ -111,3 +111,6 @@ pip install -r requirements.txt
 - Medium:
     - [killer-sudoku-helper](killer-sudoku-helper/README.md)
     - [knapsack](knapsack/README.md)
+    - [palindrome-products](palindrome-products/README.md)
+    - [largest-series-product](largest-series-product/README.md)
+    - [alphametics](alphametics/README.md)
